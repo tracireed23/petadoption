@@ -1,0 +1,35 @@
+html {
+	text-align: center;
+	font-family: chalkboard;
+}
+
+body {
+	font-family: chalkboard;
+}
+
+.jumbotron {
+	font-family: chalkboard;
+}
+
+#menu {
+	padding-bottom: 40px;
+	
+}
+
+#kittens-carousel {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+img {
+	width: 100%;
+	max-height: 600px;
+
+}
+
+footer {
+	margin-top: 15%;
+}
+

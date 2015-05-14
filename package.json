@@ -1,0 +1,19 @@
+{
+  "name": "petadoption",
+  "version": "1.0.0",
+  "description": "\"Setting up a Project\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracireed23/petadoption.git"
+  },
+  "author": "Traci Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracireed23/petadoption/issues"
+  },
+  "homepage": "https://github.com/tracireed23/petadoption#readme"
+}

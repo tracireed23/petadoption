@@ -1,0 +1,25 @@
+{
+	"kittens": [
+	{
+		"sex": "Female",
+		"age": "9 weeks",
+		"color": "White and grey",
+		"imageUrl": "img/kitten227009_640.jpg",
+		"description": "Super cute, loves to cuddle, great with other animals and kids."
+			},
+			{
+		"sex": "Male",
+		"age": "11 weeks",
+		"color": "Grey",
+		"imageUrl": "img/kitten-647501_640.jpg",
+		"description": "Lots of energy, great with kids, still kinda scared of dogs."	
+			},
+			{
+		"sex": "Female",
+		"age": "10 weeks",
+		"color": "white",
+		"imageUrl": "img/white-kitten-568585_640.jpg",
+		"description": "Very shy, especially around other animals and kids, but loves to cuddle once she warms up to you."
+			}
+			]
+}
